@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">foodwar</string>
+    <string name="tab_text_1">Top 10</string>
+    <string name="tab_text_2">Entdecken</string>
+    <string name="tab_text_3">Favoriten</string>
+    <string name="rezeptName">rezeptName</string>
+    <string name="bild_auswählen">Bild auswählen</string>
+    <string name="zubereitung">Zubereitung</string>
+    <string name="zutaten">Zutaten</string>
+    <string name="gerichtname">Name des Gerichts</string>
+    <string name="speichern">Speichern</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
